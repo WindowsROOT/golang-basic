@@ -19,3 +19,5 @@ func main() {
 	fmt.Println("Press the Enter Key to terminate the console screen!")
 	fmt.Scanln() // wait for Enter Key
 }
+
+/* ref = https://blog.wu-boy.com/2019/04/how-to-load-env-file-in-go/ */
