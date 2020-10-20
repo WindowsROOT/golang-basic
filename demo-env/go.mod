@@ -1,4 +1,4 @@
-module DEMO-ENV
+module demo-env
 
 go 1.15
 
